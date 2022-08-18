@@ -14,14 +14,22 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="sass" width="40" height="40"/> </a> </p>
 
-<h3 align="left">certifications:</h3>
-<a href="https://www.coderhouse.com/certificados/62ae25f6fc475500244f74fa" target="_blank" rel="noreferrer"> <img src="https://github.com/Miguel-Laco/Certifications/blob/main/diploma%20CoderHouse%20-%20Desarrollo%20Web.png" alt="react" width="60" height="60"/> </a>
+
+
+
+<h3 align="left">Certifications:</h3>
+<a href="https://www.coderhouse.com/certificados/62ae25f6fc475500244f74fa" target="_blank" rel="noreferrer"> <img src="https://github.com/Miguel-Laco/Certifications/blob/main/diploma%20CoderHouse%20-%20Desarrollo%20Web.png" alt="react" width="300" height="200"/> </a>
+<a href="https://github.com/Miguel-Laco/Certifications/blob/main/JavaScript%20B%C3%A1sico%20-%20Open%20BootCamp.PNG"> <img src="https://github.com/Miguel-Laco/Certifications/blob/main/JavaScript%20B%C3%A1sico%20-%20Open%20BootCamp.PNG" alt="react" width="300" height="200"/> </a>
+<a href="https://github.com/Miguel-Laco/Certifications/blob/main/Introduccion%20a%20la%20programacion%20-%20Open%20BootCamp.PNG" target="_blank" rel="noreferrer"> <img src="https://github.com/Miguel-Laco/Certifications/blob/main/Introduccion%20a%20la%20programacion%20-%20Open%20BootCamp.PNG" alt="react" width="300" height="200"/> </a>
+
 
 
 <h3 align="left">Currently studying:</h3>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a></p></p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miguel-laco&show_icons=true&theme=dark&locale=en&layout=compact" alt="miguel-laco" /></p>
 
