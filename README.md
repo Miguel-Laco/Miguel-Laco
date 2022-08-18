@@ -16,6 +16,10 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
 
+<h3 align="left">certifications:</h3>
+<a href="https://www.coderhouse.com/certificados/62ae25f6fc475500244f74fa" target="_blank" rel="noreferrer"> <img src="https://github.com/Miguel-Laco/Certifications/blob/main/diploma%20CoderHouse%20-%20Desarrollo%20Web.png" alt="react" width="60" height="60"/> </a>
+
+
 <h3 align="left">Currently studying:</h3>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 
