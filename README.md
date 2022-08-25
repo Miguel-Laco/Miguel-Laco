@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Miguel Laco</h1>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+<h3 align="center">A passionate student of Frontend Development</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=miguel-laco&label=Profile%20views&color=190eb4&style=plastic" alt="miguel-laco" /> </p>
 
