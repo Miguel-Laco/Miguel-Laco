@@ -24,6 +24,8 @@
 <h3 align="left">Certifications:</h3>
 <a href="https://www.coderhouse.com/certificados/62ae25f6fc475500244f74fa" target="_blank" rel="noreferrer"> <img src="https://github.com/Miguel-Laco/Certifications/blob/main/diploma%20CoderHouse%20-%20Desarrollo%20Web.png" alt="DesarrolloWeb" width="300" height="200"/> </a>
 <a href="https://us.coderhouse.com/certificados/630ab3b1dbba8d001977e83" target="_blank" rel="noreferrer"> <img src="https://github.com/Miguel-Laco/Certifications/blob/main/diploma%20CoderHouse%20-%20JavaScript.png" alt="JavaScript" width="300" height="200"/> </a>
+<a href="https://www.coderhouse.com/certificados/63674a6fbb8726000ea2e4c5" target="_blank" rel="noreferrer"> <img src="https://github.com/Miguel-Laco/Certifications/blob/main/diploma%20CoderHouse%20-%20React%20Js.png" alt="JavaScript" width="300" height="200"/> </a>
+<a href="https://www.coderhouse.com/certificados/63674a70bb8726000ea2e4c8" target="_blank" rel="noreferrer"> <img src="https://github.com/Miguel-Laco/Certifications/blob/main/diploma%20CoderHouse%20-%20Carrera%20de%20Desarrollo%20Frontend%20React.png" alt="JavaScript" width="300" height="200"/> </a>
 <a href="https://github.com/Miguel-Laco/Certifications/blob/main/JavaScript%20B%C3%A1sico%20-%20Open%20BootCamp.PNG"> <img src="https://github.com/Miguel-Laco/Certifications/blob/main/JavaScript%20B%C3%A1sico%20-%20Open%20BootCamp.PNG" alt="react" width="300" height="200"/> </a>
 <a href="https://github.com/Miguel-Laco/Certifications/blob/main/Introduccion%20a%20la%20programacion%20-%20Open%20BootCamp.PNG" target="_blank" rel="noreferrer"> <img src="https://github.com/Miguel-Laco/Certifications/blob/main/Introduccion%20a%20la%20programacion%20-%20Open%20BootCamp.PNG" alt="react" width="300" height="200"/> </a>
 
