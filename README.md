@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Miguel Laco</h1>
-<h3 align="center">A passionate student of Frontend Development</h3>
+<h3 align="center">A passionate Frontend Developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=miguel-laco&label=Profile%20views&color=190eb4&style=plastic" alt="miguel-laco" /> </p>
 
@@ -16,7 +16,8 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="sass" width="40" height="40"/> </a>
-<a href="https://nodejs.org/es/" target="_blank" rel="noreferrer"> <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" alt="sass" width="40" height="40"/> </a> </p>
+<a href="https://nodejs.org/es/" target="_blank" rel="noreferrer"> <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" alt="sass" width="40" height="40"/> </a> 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a></p></p></p>
 
 
 
@@ -26,7 +27,7 @@
 <a href="https://us.coderhouse.com/certificados/630ab3b1dbba8d001977e83" target="_blank" rel="noreferrer"> <img src="https://github.com/Miguel-Laco/Certifications/blob/main/diploma%20CoderHouse%20-%20JavaScript.png" alt="JavaScript" width="300" height="200"/> </a>
 <a href="https://www.coderhouse.com/certificados/63674a6fbb8726000ea2e4c5" target="_blank" rel="noreferrer"> <img src="https://github.com/Miguel-Laco/Certifications/blob/main/diploma%20CoderHouse%20-%20React%20Js.png" alt="React Js" width="300" height="200"/> </a></div>
 
-<div align="center"><a href="https://www.coderhouse.com/certificados/63674a70bb8726000ea2e4c8" target="_blank" rel="noreferrer"> <img src="https://github.com/Miguel-Laco/Certifications/blob/main/diploma%20CoderHouse%20-%20Carrera%20de%20Desarrollo%20Frontend%20React.png" alt="Frontend React" width="300" height="200"/> </a></div>
+<div align="center"><a href="https://www.coderhouse.com/certificados/63674a70bb8726000ea2e4c8" target="_blank" rel="noreferrer"> <img src="https://github.com/Miguel-Laco/Certifications/blob/main/diploma%20CoderHouse%20-%20Carrera%20de%20Desarrollo%20Frontend%20React.png" alt="Frontend React" width="600" height="500"/> </a></div>
 
 <div align="center"><a href="https://github.com/Miguel-Laco/Certifications/blob/main/JavaScript%20B%C3%A1sico%20-%20Open%20BootCamp.PNG"> <img src="https://github.com/Miguel-Laco/Certifications/blob/main/JavaScript%20B%C3%A1sico%20-%20Open%20BootCamp.PNG" alt="react" width="300" height="200"/> </a>
 <a href="https://github.com/Miguel-Laco/Certifications/blob/main/Introduccion%20a%20la%20programacion%20-%20Open%20BootCamp.PNG" target="_blank" rel="noreferrer"> <img src="https://github.com/Miguel-Laco/Certifications/blob/main/Introduccion%20a%20la%20programacion%20-%20Open%20BootCamp.PNG" alt="react" width="300" height="200"/> </a></div>
