@@ -43,15 +43,17 @@ http://cosecha40-laco.vercel.app/
 ##### E-commerce app, developed by me, on React js
 ![Demo de una compra](https://github.com/Miguel-Laco/cosecha40-laco/blob/master/public/img/demo-Cosecha40.gif?raw=true)
 
+#### De Cal & Arena
+https://miguel-laco.github.io/Proyecto-Final-Comision-30430/
+##### Material yard site, with a purchase sizing wizard, developed with JS
+![Demo DeCal&Arena](https://github.com/Miguel-Laco/Images/blob/main/deCalyArena.gif?raw=true)
+
 #### KleinFran´s Site
 https://miguel-laco.github.io/kleinfran-site/
 ##### The site for a graphic designer, developed with HTML + CSS
-![Demo KleinFran](https://github.com/Miguel-Laco/Images/blob/main/KleinFran-gif.gif?raw=true)
+![Demo KleinFran](https://github.com/Miguel-Laco/Images/blob/main/KleinFran.gif?raw=true)
 
 ## 
-
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miguel-laco&show_icons=true&theme=dark&locale=en&layout=compact" alt="miguel-laco" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miguel-laco&show_icons=true&theme=dark&locale=en" alt="miguel-laco" /></p>
