@@ -38,8 +38,15 @@
 <!-- PROYECTS -->
 ## Proyects
 
+#### Cosecha 40
+http://cosecha40-laco.vercel.app/
+##### E-commerce app, developed by me, on React js
 ![Demo de una compra](https://github.com/Miguel-Laco/cosecha40-laco/blob/master/public/img/demo-Cosecha40.gif?raw=true)
 
+#### KleinFran´s Site
+https://miguel-laco.github.io/kleinfran-site/
+##### The site for a graphic designer, developed with HTML + CSS
+![Demo KleinFran](https://github.com/Miguel-Laco/Images/blob/main/KleinFran-gif.gif?raw=true)
 
 ## 
 
