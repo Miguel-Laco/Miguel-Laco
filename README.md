@@ -32,10 +32,17 @@
 <div align="center"><a href="https://github.com/Miguel-Laco/Certifications/blob/main/JavaScript%20B%C3%A1sico%20-%20Open%20BootCamp.PNG"> <img src="https://github.com/Miguel-Laco/Certifications/blob/main/JavaScript%20B%C3%A1sico%20-%20Open%20BootCamp.PNG" alt="react" width="300" height="200"/> </a>
 <a href="https://github.com/Miguel-Laco/Certifications/blob/main/Introduccion%20a%20la%20programacion%20-%20Open%20BootCamp.PNG" target="_blank" rel="noreferrer"> <img src="https://github.com/Miguel-Laco/Certifications/blob/main/Introduccion%20a%20la%20programacion%20-%20Open%20BootCamp.PNG" alt="react" width="300" height="200"/> </a></div>
 
-
-
 <h3 align="left">Currently studying:</h3>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a></p></p>
+
+<!-- PROYECTS -->
+## Proyects
+
+![Demo de una compra](https://github.com/Miguel-Laco/cosecha40-laco/blob/master/public/img/demo-Cosecha40.gif?raw=true)
+
+
+## 
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miguel-laco&show_icons=true&theme=dark&locale=en&layout=compact" alt="miguel-laco" /></p>
