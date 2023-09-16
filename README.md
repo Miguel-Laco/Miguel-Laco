@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Miguel Laco</h1>
-<h3 align="center">A passionate Frontend Developer</h3>
+<h3 align="center">A frontend developer, on the way to full stack developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=miguel-laco&label=Profile%20views&color=190eb4&style=plastic" alt="miguel-laco" /> </p>
 
@@ -33,7 +33,8 @@
 <a href="https://github.com/Miguel-Laco/Certifications/blob/main/Introduccion%20a%20la%20programacion%20-%20Open%20BootCamp.PNG" target="_blank" rel="noreferrer"> <img src="https://github.com/Miguel-Laco/Certifications/blob/main/Introduccion%20a%20la%20programacion%20-%20Open%20BootCamp.PNG" alt="react" width="300" height="200"/> </a></div>
 
 <h3 align="left">Currently studying:</h3>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a></p></p>
+<h2>BACKEND</h2>
+<!-- <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a></p></p> -->
 
 <!-- PROYECTS -->
 ## Proyects
