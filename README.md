@@ -17,24 +17,30 @@
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="sass" width="40" height="40"/> </a>
 <a href="https://nodejs.org/es/" target="_blank" rel="noreferrer"> <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" alt="sass" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a></p></p></p>
-
-
-
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://handlebarsjs.com/" target="_blank" rel="noreferrer"> <img src="https://vahid.blog/post/2021-03-19-how-to-use-handlebars.js-for-templating/featured.png" alt="Handlebarsjs" width="40" height="40"/> </a>
+<a href="https://www.mongodb.com/es" target="_blank" rel="noreferrer"> <img src="https://www.opc-router.com/wp-content/uploads/2021/03/mongodb_thumbnail-200x269.png" alt="MongoDB" width="40" height="40"/> </a>
+<a href="https://jwt.io/" target="_blank" rel="noreferrer"> <img src="https://jwt.io/img/pic_logo.svg" alt="JWT" width="40" height="40"/> </a>
+<a href="https://www.passportjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Miguel-Laco/Images/blob/main/passport.png?raw=true" alt="Passport" width="40" height="40"/> </a>
+</p>
 
 <h3 align="left">Certifications:</h3>
+<div align="center"><a href="https://www.coderhouse.com/certificados/63674a70bb8726000ea2e4c8" target="_blank" rel="noreferrer"> <img src="https://github.com/Miguel-Laco/Certifications/blob/main/diploma%20CoderHouse%20-%20Carrera%20de%20Desarrollo%20Frontend%20React.png" alt="Frontend React" width="500" height="400"/> </a>
+<a href="https://www.coderhouse.com/certificados/653858721b16a66ae6b8e7f6" target="_blank" rel="noreferrer"> <img src="https://github.com/Miguel-Laco/Certifications/blob/main/certificado-carrera-FullStack.png" alt="FullStack" width="500" height="400"/> </a></div>
+
 <div align="center"><a href="https://www.coderhouse.com/certificados/62ae25f6fc475500244f74fa" target="_blank" rel="noreferrer"> <img src="https://github.com/Miguel-Laco/Certifications/blob/main/diploma%20CoderHouse%20-%20Desarrollo%20Web.png" alt="DesarrolloWeb" width="300" height="200"/> </a>
 <a href="https://us.coderhouse.com/certificados/630ab3b1dbba8d001977e83" target="_blank" rel="noreferrer"> <img src="https://github.com/Miguel-Laco/Certifications/blob/main/diploma%20CoderHouse%20-%20JavaScript.png" alt="JavaScript" width="300" height="200"/> </a>
-<a href="https://www.coderhouse.com/certificados/63674a6fbb8726000ea2e4c5" target="_blank" rel="noreferrer"> <img src="https://github.com/Miguel-Laco/Certifications/blob/main/diploma%20CoderHouse%20-%20React%20Js.png" alt="React Js" width="300" height="200"/> </a></div>
-
-<div align="center"><a href="https://www.coderhouse.com/certificados/63674a70bb8726000ea2e4c8" target="_blank" rel="noreferrer"> <img src="https://github.com/Miguel-Laco/Certifications/blob/main/diploma%20CoderHouse%20-%20Carrera%20de%20Desarrollo%20Frontend%20React.png" alt="Frontend React" width="600" height="500"/> </a></div>
+<a href="https://www.coderhouse.com/certificados/63674a6fbb8726000ea2e4c5" target="_blank" rel="noreferrer"> <img src="https://github.com/Miguel-Laco/Certifications/blob/main/diploma%20CoderHouse%20-%20React%20Js.png" alt="React Js" width="300" height="200"/> </a>
+<a href="https://www.coderhouse.com/certificados/653858721b16a652b0b8e7e7" target="_blank" rel="noreferrer"> <img src="https://github.com/Miguel-Laco/Certifications/blob/main/certificado-curso-Backend.png" alt="React Js" width="300" height="200"/> </a></div>
 
 <div align="center"><a href="https://github.com/Miguel-Laco/Certifications/blob/main/JavaScript%20B%C3%A1sico%20-%20Open%20BootCamp.PNG"> <img src="https://github.com/Miguel-Laco/Certifications/blob/main/JavaScript%20B%C3%A1sico%20-%20Open%20BootCamp.PNG" alt="react" width="300" height="200"/> </a>
 <a href="https://github.com/Miguel-Laco/Certifications/blob/main/Introduccion%20a%20la%20programacion%20-%20Open%20BootCamp.PNG" target="_blank" rel="noreferrer"> <img src="https://github.com/Miguel-Laco/Certifications/blob/main/Introduccion%20a%20la%20programacion%20-%20Open%20BootCamp.PNG" alt="react" width="300" height="200"/> </a></div>
 
-<h3 align="left">Currently studying:</h3>
-<h2>BACKEND</h2>
-<!-- <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a></p></p> -->
+
+<h2 align="left">Currently studying:</h2><h3>"Thinking what's next"</h3>
+
+
+
 
 <!-- PROYECTS -->
 ## Proyects
@@ -58,4 +64,3 @@ https://miguel-laco.github.io/kleinfran-site/
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miguel-laco&show_icons=true&theme=dark&locale=en&layout=compact" alt="miguel-laco" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miguel-laco&show_icons=true&theme=dark&locale=en" alt="miguel-laco" /></p>
-
